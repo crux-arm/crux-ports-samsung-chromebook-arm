@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/samsung-chromebook-arm.pub
+RWRTv10rCKEp5qQ090vBoapTjpwDQYOBdvhw9huMcQ4DxzR1jiaCOeH7MbMVQDQvQPOOsavOof8017yMsodtDAMuLjZ1nKXVVwU=
+SHA256 (Pkgfile) = ade6ded9ff960ea4ab6301beb05a102cc78ac9f948bc2e5360724c11b067736f
+SHA256 (.footprint) = 26802764ae3ae1e1a73ea56c859b3415e250a72ea444af410381df8c8f5d3ac8
+SHA256 (prt-get-5.19.6.tar.xz) = 6ea89df308e19a6239f260c91036805cd2063d0cd24a7427235849634dd49f0d
+SHA256 (prt-get.conf) = ed15277500316cf2bc595ebe74ff626917552e48314f9b66597ead7b1e7f0ead
+SHA256 (prt-get.aliases) = df473d38e59d1d6cd859d986a5d6586fdc54bfd51663313c63a939e941984b7b
