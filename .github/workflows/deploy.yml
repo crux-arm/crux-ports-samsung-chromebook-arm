@@ -17,7 +17,10 @@ jobs:
 
       # Prepare git log message to avoid extra blank lines
       - name: Set env message
-        run: echo "MESSAGE=$(git log -1 --pretty=format:"%s")" >> $GITHUB_ENV      
+        run: |
+          GITREPO=`git remote show origin -n | grep h.URL | sed 's/Fetch URL: https:\/\/github.com\/crux-arm\///g'`
+          GITMSG=`git log -1 --pretty=format:"%s"`
+          echo "MESSAGE=$(echo "[$GITREPO  ]: $GITMSG")" >> $GITHUB_ENV 
       
       # Send IRC message by bot
       - name: irc push
@@ -39,4 +42,4 @@ jobs:
         run: |
           git config user.name "$(git log -n 1 --pretty=format:%an)"
           git config user.email "$(git log -n 1 --pretty=format:%ae)"
-          bash -c "git commit -a -m '[auto] Update REPO file' && git push || exit 0"
+          bash -c "git commit -a -m '[auto] Update REPO file' && git push || exit 0" 
