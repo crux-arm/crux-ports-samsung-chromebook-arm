@@ -1,0 +1,21 @@
+untrusted comment: verify with /etc/ports/samsung-chromebook-arm.pub
+RWRTv10rCKEp5o3Ol+dC81exRxmhsEalT6hq0pTTFuQE3U2ipPoj+t509AuSn5ZOWRjYxztz7FPzAhig0WKyLN3C+nP4+2AKww0=
+SHA256 (Pkgfile) = 938c445b9a9b4f78e523e1f11a806dda3dea4a0300ee266bed573d40e28870c3
+SHA256 (.footprint) = 6cc60bde5b5b2bbb33e3c38323eb57e2af63e11440c02a09fe9108df160b43c0
+SHA256 (ports-1.6.tar.gz) = 8b2ba48e7440f4a71fa1c9c480a1212ce87c623e1d33121eb660829ba294ca94
+SHA256 (core.pub) = 5a08b7f21fb1768b9e639da0b768edb536de0590b75e663dab6d185617613791
+SHA256 (opt.pub) = 4711f488546c38cdec792c1f16b3bf7c4db0c7dc0c3cdab0ecdd85e2c7247ae5
+SHA256 (xorg.pub) = 5db27d455f658ea8a6c7ae9aac601d66e74cedff5dd497910fd1ffead08e5237
+SHA256 (contrib.pub) = cae797c624547b5ffb643f4cdf60d83a7cc28081f5929b882d48085085d76190
+SHA256 (core.rsync) = a241801eaa34ea78f7bb362574fb4b14ea272518894f8a27e95f6a3c93464550
+SHA256 (opt.rsync) = 8538d1ced606856552e8a6989a3880b958ac5e0849d14aba199f3f89bd871845
+SHA256 (xorg.rsync) = 3dd6884b2b628e8d9ae575b95fb7e4bad0f9ddd4ee4088d2486f846a407a0278
+SHA256 (contrib.rsync.inactive) = 55621db4b59fb45ecc9525c72d59576043bacbd9261d9ef031dcd1a3fda00957
+SHA256 (samsung-chromebook-arm.httpup) = 2fe63ff2564ee4fea401ce75a9ac2a9453e95f367a032ef39acd3f57adb19de5
+SHA256 (samsung-chromebook-arm.pub) = 228da1daa26979a985ca46655cdb3cec868557941bdd47f5c28105078b463159
+SHA256 (core-arm.httpup) = 9e6a550ec695683c359e99e371586f0a15f4d6a67a8afc2bda988b2393325192
+SHA256 (core-arm.pub) = e2b863731f5f282d4c5f1ec4a8d687409e5c44c7050b1c07532c25a7f343c48e
+SHA256 (opt-arm.httpup) = 8604d4096b6837615967f8491758edbffd0709f10e88cfa5cd707b4a4d1ce6d4
+SHA256 (opt-arm.pub) = b24e7d0ce48b220938d8a192755e19644dee11c6a34c4328207456394790ab1f
+SHA256 (xorg-arm.httpup) = 0f9ea8038915cd343748b0f0145465ab3626c918b1f30d4b584ec18eefa86fd2
+SHA256 (xorg-arm.pub) = eddfc12a736084d1cbc12fe3c3171952880244e04b42f29476b18699a7e3ed62

@@ -10,7 +10,8 @@ release=3
 source=(http://crux.nu/files/tools/ports/$name-$version.tar.gz \
         core.pub opt.pub xorg.pub contrib.pub \
         core.rsync opt.rsync xorg.rsync contrib.rsync.inactive \
-        core-arm.httpup opt-arm.httpup xorg-arm.httpup samsung-chromebook-arm.httpup)
+        samsung-chromebook-arm.httpup samsung-chromebook-arm.pub core-arm.httpup core-arm.pub \
+        opt-arm.httpup opt-arm.pub xorg-arm.httpup xorg-arm.pub)
 
 build () {
   cd $name-$version
