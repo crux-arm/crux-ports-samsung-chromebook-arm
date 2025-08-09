@@ -1,0 +1,3 @@
+host=crux.nu
+collection=crux-arm/samsung-chromebook-arm/3.7/
+destination=/usr/ports/samsung-chromebook-arm

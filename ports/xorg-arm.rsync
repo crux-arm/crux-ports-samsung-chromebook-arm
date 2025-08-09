@@ -1,3 +1,3 @@
-host=crux-arm.nu
-collection=ports/crux-3.3/xorg-arm/
+host=crux.nu
+collection=crux-arm/xorg-arm/3.8/
 destination=/usr/ports/xorg-arm
